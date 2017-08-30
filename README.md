@@ -14,6 +14,13 @@ run
 npm start
 ```
 
+## How does it work
+
+The script scraped the google cloud speech page, that contains the info on the [available languages](https://cloud.google.com/speech/docs/languages).
+
+Using [`table-scraper`](https://www.npmjs.com/package/table-scraper) which finds the table in the page and converts it to a json. 
+
+The json list of languages is then converted HTML select element with the languates as options and their code as value.
 
 ## Example Output 
 
