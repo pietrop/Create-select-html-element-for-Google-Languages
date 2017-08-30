@@ -8,6 +8,8 @@ To make a list of google cloud speech languages for a select option for [autoEdi
 npm install
 ```
 
+run 
+
 ```
 npm start
 ```
