@@ -110,6 +110,11 @@
     "Language (English name)": "English (Philippines)"
   },
   {
+    "Language": "English (Singapore)",
+    "languageCode": "en-SG",
+    "Language (English name)": "English (Singapore)"
+  },
+  {
     "Language": "English (South Africa)",
     "languageCode": "en-ZA",
     "Language (English name)": "English (South Africa)"
@@ -362,7 +367,7 @@
   {
     "Language": "සිංහල (ශ්රී ලංකාව)",
     "languageCode": "si-LK",
-    "Language (English name)": "Sinhala (Srilanka)"
+    "Language (English name)": "Sinhala (Sri Lanka)"
   },
   {
     "Language": "Slovenčina (Slovensko)",
@@ -571,7 +576,7 @@
   },
   {
     "Language": "國語 (台灣)",
-    "languageCode": "cmn-Hant-TW",
+    "languageCode": "zh-TW",
     "Language (English name)": "Chinese, Mandarin (Traditional, Taiwan)"
   },
   {
@@ -586,12 +591,12 @@
   },
   {
     "Language": "普通話 (香港)",
-    "languageCode": "cmn-Hans-HK",
+    "languageCode": "zh-HK",
     "Language (English name)": "Chinese, Mandarin (Simplified, Hong Kong)"
   },
   {
     "Language": "普通话 (中国大陆)",
-    "languageCode": "cmn-Hans-CN",
+    "languageCode": "zh",
     "Language (English name)": "Chinese, Mandarin (Simplified, China)"
   }
 ]
