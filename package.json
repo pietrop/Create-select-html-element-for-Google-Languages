@@ -10,6 +10,6 @@
   "author": "Pietro Passarelli <pietro.passarelli@gmail.com> (http://pietropassarelli.com)",
   "license": "ISC",
   "dependencies": {
-    "table-scraper": "^0.1.0"
+    "table-scraper": "^1.0.3"
   }
 }
